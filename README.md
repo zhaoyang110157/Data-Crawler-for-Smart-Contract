@@ -3,9 +3,7 @@
 
 所使用的版本是python 2.7 
 
-这个链接是现有的数据整理
-
-[点击]: https://jbox.sjtu.edu.cn/l/KFjzyL
+这个链接是现有的数据整理 https://jbox.sjtu.edu.cn/l/KFjzyL
 
 
 
