@@ -4,9 +4,10 @@
 所使用的版本是python 2.7 
 
 这个链接是现有的数据整理
+这里的数据是爬虫爬到的25000+的数据集合
 https://jbox.sjtu.edu.cn/l/VFixL3
+这里的数据是依照github数据库(https://github.com/yagol2020/SC-Sol-Dataset)中数据地址获取的数据
+https://jbox.sjtu.edu.cn/l/5FUHIb
 
-https://jbox.sjtu.edu.cn/l/U11Y07
-
-这个链接是另外一个github 库所的有标记数据整理
-https://jbox.sjtu.edu.cn/l/9FrlL2
+这个链接是依照github库所（https://github.com/sec-bit/awesome-buggy-erc20-tokens）的有标记数据整理
+https://jbox.sjtu.edu.cn/l/eFFCYm
