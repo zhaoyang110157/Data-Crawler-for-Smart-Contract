@@ -13,3 +13,6 @@ https://jbox.sjtu.edu.cn/l/5FUHIb
 
 这个链接是依照github库所（https://github.com/sec-bit/awesome-buggy-erc20-tokens）的有标记数据整理
 https://jbox.sjtu.edu.cn/l/eFFCYm
+
+这里是上方标签的具体说明
+https://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/ERC20_token_issue_list_CN.md
